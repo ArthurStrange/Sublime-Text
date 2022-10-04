@@ -1,8 +1,8 @@
 # Sublime-Text
 ключ к Sublime Text
 
-—– BEGIN LICENSE —– 
-Mifeng User 
+—– BEGIN LICENSE —–
+Mifeng User  
 Single User License 
 EA7E-1184812 
 C0DAA9CD 6BE825B5 FF935692 1750523A 
